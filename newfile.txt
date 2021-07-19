@@ -3,3 +3,7 @@ I HAVE BEEN
 UPDATEEEEEEEEEEEEEEEEEEED
 
 Here are even more updates, you like that huh
+
+Add Says what files changes you want to give to the remote repository
+Commit Locks in the changes you've made to your local repository
+Push sends the files that have been changed to the remote repository
